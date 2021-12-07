@@ -47,7 +47,7 @@ We will use Roll20 as a virtual table top for encounters / dungeons (and rolling
 ### Rolling
 You don't need dice.  D&D Beyond allows you to make rolls and it will share them automatically (via Beyond20).  
 
-![Beyond Rolling](https://media-waterdeep.cursecdn.com/attachments/7/985/may-30-2020-21-26-53.gif)
+![Beyond Rolling](rolling.gif)
 
 ## Useful Settings
 I've marked a few useful setting thingies (found on the gear tab in roll20)
